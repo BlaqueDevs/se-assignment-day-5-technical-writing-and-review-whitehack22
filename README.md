@@ -24,7 +24,9 @@ Use layered content, starting with elementary notions and building on them as th
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
 a. Ask direct enquiries: If possible, engage your audience beforehand by enquiring about their acquaintance with the subject.
+
 b. Use surveys or polls to learn more about the audience's degree of expertise.
+
 c. Investigate the audience's background: If you're speaking to a specific group, knowing their professional or educational backgrounds might help assess their technical expertise.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
@@ -55,14 +57,14 @@ Examples and pictures help to transform abstract or complicated ideas into pract
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 
 a. Diagrams are ideal for demonstrating processes, workflows, and system structures. Flowcharts can depict step-by-step processes, whereas network diagrams can show how components interact.
+
 b. Charts (bar, pie, and line) are useful for comparing data, trends, and proportions. A line chart, for example, depicts changes over time, but a pie chart portrays sections of a larger total.
+
 c. Tables are useful for organising detailed numerical data and comparing technical specifications.
+
 d. Infographics are useful for quickly summarising information and making it more engaging by mixing pictures and short text.
-e. Screenshots or mockups are useful for tutorials and walkthroughs that demonstrate how to use software or Diagrams are ideal for demonstrating processes, workflows, and system structures. Flowcharts can depict step-by-step processes, whereas network diagrams can show how components interact.
-Charts (bar, pie, and line) are useful for comparing data, trends, and proportions. A line chart, for example, depicts changes over time, but a pie chart portrays sections of a larger total.
-Tables are useful for organising detailed numerical data and comparing technical specifications.
-Infographics are useful for quickly summarising information and making it more engaging by mixing pictures and short text.
-Screenshots or mockups are useful for tutorials and walkthroughs that demonstrate how to use software or navigate interfaces.
+
+e. Screenshots or mockups: Effective for tutorials or walkthroughs, showing how to use software or navigate interfaces.
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 
 Headings and subheadings provide a clear structure, directing readers through the content and allowing them to swiftly find information. They organise the text into small pieces, making it easier to scan and understand. Subheadings establish a logical hierarchy, ensuring that difficult issues are broken down into smaller, more digestible sections. This also improves the document's flow, helping users understand the relationships between sections.
@@ -70,22 +72,34 @@ Headings and subheadings provide a clear structure, directing readers through th
 ## 10. What are some best practices for creating effective headings and subheadings?
 
 a.Be descriptive and concise: Ensure headings clearly reflect the content of the section while keeping them short.
+
 b. Use consistent formatting: Maintain uniformity in style (font size, bolding) to signal the hierarchy between headings and subheadings.
+
 c. Keep them logical: Arrange them in a sequential, easy-to-follow order that mirrors the flow of the content.
+
 d. Use keywords: Include relevant keywords to help users quickly find the information they need, especially in technical documents or guides.
+
 e. Avoid jargon: Make sure headings are easy to understand, even for non-expert readers.
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 a. Product name: Clearly state the name of the product or project.
+
 b. Brief description: Provide a one or two-sentence summary of what the product does and its primary purpose.
+
 c. Key features: Highlight the main functionalities that set the product apart or are most useful to users.
+
 d. Use case or target audience: Mention who the product is for and what problem it solves.
+
 e. Quick start instructions: Offer a link or a brief mention of how to get started with the product.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
 
 a. Use simple, direct language: Avoid complex terms and explain the product in clear, concise sentences.
+
 b. Focus on the core problem: Start by outlining the problem the product solves, followed by how it addresses that problem.
+
 c. Highlight key features: List the most important features, but keep the list short. Emphasize only the ones that users will find most beneficial.
+
 d. Use bullet points: Bullet points make it easier to read and digest information quickly.
+
 e. Include a call-to-action: Encourage the user to take the next step, whether it’s installing the product, signing up, or learning more through documentation.
